@@ -1,0 +1,4 @@
+-Python 3.8(or 3.9)
+-qiskit
+-qiskit_aer
+-numpy
